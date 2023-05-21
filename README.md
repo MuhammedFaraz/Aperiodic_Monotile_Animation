@@ -13,16 +13,12 @@ Aperiodic Monotile Animation is an engaging web project that brings to life the 
 
 - Interactive animation: Engage with the animated monotiles and observe their intricate patterns in motion.
 - Seamless tiling: Discover how the monotiles perfectly fit together without repetition, creating captivating and visually appealing designs.
-- Mathematical principles: Learn about the mathematical concepts behind aperiodic tiling and explore the underlying symmetries.
-- User-friendly interface: Enjoy a seamless browsing experience with an intuitive and visually pleasing interface.
 - Open-source: The project is open-source under the MIT License, allowing for customization and contributions.
 
 ## Usage
 
 1. Visit the [Aperiodic Monotile Animation website](https://aperiodicmonotile.netlify.app/).
-2. Interact with the animated monotiles by clicking and dragging on the screen.
-3. Explore the various patterns and observe their non-repetitive nature.
-4. Dive into the mathematical principles behind aperiodic tiling by referring to the provided documentation.
+2. Dive into the mathematical principles behind aperiodic tiling by referring to the provided documentation.
 
 ## Installation
 
