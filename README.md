@@ -56,7 +56,8 @@ For any inquiries or questions, please contact the project maintainer:
 
 Muhammed Faraz
 - GitHub: [@MuhammedFaraz](https://github.com/MuhammedFaraz)
-- Email: [muhammedfaraz@gmail.com](mailto:muhammedfaraz@gmail.com)
+- Email: [farazuddin11204@gmail.com](mailto:farazuddin11204@gmail.com)
+- Twitter: [@Farazaldin](https://twitter.com/Farazaldin)
 
 ## Website
 
